@@ -11,6 +11,8 @@ header {
     text-align: center;
 }
 
+  
+
 h1 {
     margin: 0;
     font-size: 36px;
@@ -169,10 +171,10 @@ h2 {
 footer {
     background-color: #333;
     color: #fff;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     font-size: 14px;
-    position: static;
+    position: fixed;
     bottom: 0;
     width: 100%;
   }
@@ -254,5 +256,4 @@ footer {
   .servicio a:hover {
     background-color: #1a237e;
   }
-  
   
