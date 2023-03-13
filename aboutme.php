@@ -28,7 +28,7 @@
 	</nav>
 	<section id="aboutme">
       <div class="about-me">
-        <h2>Acerca de Mí</h2>
+        <h2 >Acerca de Mí</h2>
         <img width="200" height="200" src="<?php echo $imagen; ?>" alt="<?php echo $nombre; ?>">
         <p><?php echo $descripcion; ?></p>
        <ul>
